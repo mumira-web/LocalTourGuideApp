@@ -59,7 +59,7 @@ Travelink centralizes all travel tools into a single Android application that:
 
 
 ## 📄 Documentation  
-📘 [Project Proposal (PDF)](docs/Project_Proposal.pdf)
+📘 [Project Proposal (PDF)](Project_Proposal.pdf)
 
 ---
 
